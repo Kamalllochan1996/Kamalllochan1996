@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamal.
 - 👀 Looking for companies to work with them.
-- 🌱 I’m currently working on python as a developer.
+- 🌱 I’m currently working on python as a django developer.
 - 📞 You can reach me via call 8455839589
 - 📫 Also reach me email me kamalllochan1996@gmail.com
 - 🔗 You can follow me on LinkedIn https://www.linkedin.com/in/kamal-barik-0b6b37203/
